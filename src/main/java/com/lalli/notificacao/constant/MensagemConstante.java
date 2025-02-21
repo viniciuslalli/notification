@@ -5,4 +5,5 @@ public class MensagemConstante {
     public static final String PROPOSTA_NEGADA = "Prezado(a) %s, sua proposta foi NEGADA. Nosso sistema detectou a seguinte causa: %s";
     public static final String PROPOSTA_APROVADA = "Prezado(a) %s, sua proposta foi APROVADA. Em breve receberá mais informações.";
 
+
 }
